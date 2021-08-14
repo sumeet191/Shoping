@@ -1,0 +1,8 @@
+.products-cart-container{
+    display: flex;
+    width: 100%;
+    position: relative;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
